@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeCrafterHardik
-- 👀 I’m interested in Back-End Development
+- 👀 I’m interested in Front-End as well as Back-End Development
 - 🌱 I’m currently pursuing BE in Electronics and Telecommunication
-- 💞️ I’m looking to gain knowledge of Technology, IOT, UI/UX, Graphic Designing, and Front-End Development
+- 💞️ I’m looking to gain knowledge of Technology, IOT, UI/UX, Graphic Designing, and Generative AI
 - 📫 How to reach me -ujgoankarh@gmail.com / hardikujgaonkar
 
 <!---
